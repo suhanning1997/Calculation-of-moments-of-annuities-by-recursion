@@ -2,7 +2,8 @@
 In this project, I present a example of calculating moments of annuities recursively, assuming random interest rates. R codes and Rnw file are provided.
 
 The task is to calculate the present value of a series of 20 payments at the end of each year for 20 years, supposing $i_1$, $i_2$, ..., $i_n$ are IID returns, where
-$i_k$ = 0.05 w.p. 0.15;
+$i_k$
+      = 0.05 w.p. 0.15;
 
       = 0.06 w.p. 0.60;
       
