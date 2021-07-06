@@ -9,6 +9,6 @@ $i_k$
       
       = 0.07 w.p. 0.25
 
-The recursion techinique is useful when the analytical formulae moments are hard to derive.
+The recursion techinique is useful when the analytical formulae for moments are hard to derive.
 
-For more examples, please check out "more examples" file, where I provided R codes and Rnw files solving 3 extra questions.
+For more related examples, please check out "more examples" file, where I provided R codes and Rnw files solving 3 extra questions.
