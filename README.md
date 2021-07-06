@@ -12,4 +12,4 @@ $i_k$
 
 The recursion techinique is useful when the analytical formulae for moments are hard to derive.
 
-For more related examples, please check out "more examples" file, where I provided R codes and Rnw files solving 3 extra questions.
+For more related examples, please check out "more examples" folder, where I provided R codes and Rnw files solving 3 extra questions.
